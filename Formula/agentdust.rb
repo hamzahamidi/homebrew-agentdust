@@ -1,9 +1,9 @@
 class Agentdust < Formula
   desc "Finds and cleans processes that AI coding agents leave behind"
   homepage "https://github.com/hamzahamidi/agentdust"
-  url "https://github.com/hamzahamidi/agentdust/releases/download/v1.5.0/agentdust-1.5.0-darwin-arm64.tar.gz"
-  version "1.5.0"
-  sha256 "16c4d27ae6b9409223157a179e4d109a135b833572042158556ac3f4968692d9"
+  url "https://github.com/hamzahamidi/agentdust/releases/download/v1.5.1/agentdust-1.5.1-darwin-arm64.tar.gz"
+  version "1.5.1"
+  sha256 "72dd14ac5f603fc8d1631b5922aecd04238f5d48da0346242b67a9cf166022a4"
 
   depends_on arch: :arm64
   depends_on :macos
